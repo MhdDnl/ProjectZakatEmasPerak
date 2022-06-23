@@ -1,0 +1,8 @@
+﻿  ProjectZakatEmasPerak.cpp
+C:\Users\danie\source\repos\ProjectZakatEmasPerak\ProjectZakatEmasPerak\ProjectZakatEmasPerak.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danie\source\repos\ProjectZakatEmasPerak\ProjectZakatEmasPerak\ProjectZakatEmasPerak.cpp(10,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\danie\source\repos\ProjectZakatEmasPerak\ProjectZakatEmasPerak\ProjectZakatEmasPerak.cpp(9,6): warning C4101: 'gram': unreferenced local variable
+C:\Users\danie\source\repos\ProjectZakatEmasPerak\ProjectZakatEmasPerak\ProjectZakatEmasPerak.cpp(14,6): warning C4101: 'country1': unreferenced local variable
+C:\Users\danie\source\repos\ProjectZakatEmasPerak\ProjectZakatEmasPerak\ProjectZakatEmasPerak.cpp(16,8): warning C4101: 'goldrate': unreferenced local variable
+C:\Users\danie\source\repos\ProjectZakatEmasPerak\ProjectZakatEmasPerak\ProjectZakatEmasPerak.cpp(13,6): warning C4101: 'country': unreferenced local variable
+  ProjectZakatEmasPerak.vcxproj -> C:\Users\danie\source\repos\ProjectZakatEmasPerak\Debug\ProjectZakatEmasPerak.exe
